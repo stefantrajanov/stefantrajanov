@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @stefantrajanov
+- 👀 I’m interested in Artificial Intelligence Programming, Computer Vison, Machine Learning, Engineering, Python, C++, Java, and anything related to technology and programming!
+- 🌱 I’m currently learning Advanced Algorthims and Data structure's in Python, Java and C++, and a lot of Artificial Intelligence with Computer Vison and Machine Learning.
+- 💞️ I’m looking to collaborate on Artificial Intelligence projects.
+- 📫 How to reach me --> contact: stefantrajanov1@outlook.com
