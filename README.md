@@ -1,6 +1,5 @@
-- 👋 Hi, I’m @stefantrajanov
-- 👀 I’m interested in Artificial Intelligence Programming, Computer Vison, Machine Learning, Engineering, Python, C++, Java, and anything related to technology and programming!
-- 👀 Advanced knowledge in all fields in programming and a enormous passion for technology in general!
-- 🌱 I’m currently learning Computer Science and IT.
-- 💞️ I’m looking to collaborate on any type of project from Mobile apps all the way to Artificial Intelligence projects.
-- 📫 How to reach me --> contact: stefantrajanov1@outlook.com
+- 👋 Hi, I hope you're having a great day, I'm @stefantrajanov.
+- I am a software developer who has an enormous passion for everything related to technology computers and programming.
+- I am currently learning Computer Science and IT and working as a freelancer, developing awesome websites.
+- I am always available for all kinds of services and work.
+- How to reach me --> portfolio: stefantrajanov.github.io
