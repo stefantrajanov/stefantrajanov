@@ -1,5 +1,2 @@
 - 👋 Hi, I hope you're having a great day, I'm @stefantrajanov.
-- I am a software developer who has an enormous passion for everything related to technology computers and programming.
-- I am currently learning Computer Science and IT and working as a freelancer, developing awesome websites.
-- I am always available for all kinds of services and work.
 - How to reach me --> portfolio: stefantrajanov.github.io
